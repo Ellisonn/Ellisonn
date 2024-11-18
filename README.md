@@ -23,7 +23,7 @@ A minha trajetória ainda está sendo construída, pois ainda tenho muitos desaf
 !["banner](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-## ✏️      Estudando
+## ✏️      Estudante
 
 
 ### 🖥️ Redes de Computadores
