@@ -1,7 +1,5 @@
 ### Olá, Eu sou Ellison Nascimento 🖐️
-
-A minha trajetória ainda está sendo construída, pois ainda tenho muitos desafios e aprendizados na minha formação como desenvolvedor web front-end, mas me orgulho muito da minha trajetória acadêmica e profissional até aqui.
-
+Seja bem vindo!
 
 
 ![blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
