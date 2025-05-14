@@ -1,5 +1,10 @@
 ### Olá, Eu sou Ellison Nascimento 🖐️
 Seja bem vindo!
+🚀 Explorando o Mundo da Tecnologia 🖥️
+Bem-vindo ao meu GitHub! Aqui, você encontrará projetos, ideias e experimentações que refletem minha jornada no universo da tecnologia.
+Sou apaixonado por inovação, programação e soluções que tornam o mundo mais eficiente e conectado. Neste espaço, compartilho códigos, colaboro em projetos e busco aprimorar minhas habilidades.
+Sinta-se à vontade para explorar, contribuir e trocar ideias! Vamos construir algo incrível juntos.
+#Tecnologia #Desenvolvimento #OpenSource
 
 
 ![blog](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
