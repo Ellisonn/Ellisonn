@@ -29,21 +29,17 @@ Sinta-se à vontade para explorar, contribuir e trocar ideias! Vamos construir a
 
 ### ✏️      Habilidades
 
-### 👨‍💻 Administrador de Sistemas (Windows / Linux)
-### 🌐
-### 💾
-### 🖥️ Redes de Computadores
-### ⌨️
-### 📡 Especializado em Telecomunicações
-### 👩‍💻
-### 💻
 ### 📱
+### 💻 Redes de Computadores
+### ⌨️
+### 💾
+### 👨🏼‍💻
+### 💿 Administrador de Sistemas (Windows / Linux)
+### 🏬 Segurança da Informação
 ### 📊
-### 💿
-
-### 🔏 Segurança da Informação
-
-### 🔬 Ciência da Dados em Paython
+### 👩🏼‍💻 Ciência da Dados em Paython
+### 📡 Especialista de Telecomunicação
+### 🌐
 
 <div><br>
 
