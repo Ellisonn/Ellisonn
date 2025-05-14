@@ -28,12 +28,14 @@ Sinta-se à vontade para explorar, contribuir e trocar ideias! Vamos construir a
 !["banner](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-### ✏️      Habilidades
+### ✏️      Habilidades,
 
+### 🖱️ Engenharia de Software
 ### 💻 Redes de Computadores
-### 💿 Administrador de Sistemas (Windows / Linux)
+### 📠 Analista de Suporte TI - N2
+### 💿 AnalÍtico BI
 ### 🏬 Segurança da Informação
-### 👩🏼‍💻 Ciência da Dados em Paython
+### 👩🏼‍💻 Ciência da Dados Paython
 ### 📡 Especialista de Telecomunicação
 
 
