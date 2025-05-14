@@ -29,7 +29,7 @@ Sinta-se à vontade para explorar, contribuir e trocar ideias! Vamos construir a
 
 ### ✏️      Habilidades
 
-### 👨‍💻 Administrador de Sistemas (Windows / Lunux)
+### 👨‍💻 Administrador de Sistemas (Windows / Linux)
 ### 🌐
 ### 💾
 ### 🖥️ Redes de Computadores
