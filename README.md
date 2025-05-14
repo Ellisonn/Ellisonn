@@ -1,5 +1,6 @@
 ### Olá, Eu sou Ellison Nascimento 🖐️
 Seja bem vindo!
+
 🚀 Explorando o Mundo da Tecnologia 🖥️
 
 Bem-vindo ao meu GitHub! Aqui, você encontrará projetos, ideias e experimentações que refletem minha jornada no universo da tecnologia.
@@ -29,17 +30,12 @@ Sinta-se à vontade para explorar, contribuir e trocar ideias! Vamos construir a
 
 ### ✏️      Habilidades
 
-### 📱
 ### 💻 Redes de Computadores
-### ⌨️
-### 💾
-### 👨🏼‍💻
 ### 💿 Administrador de Sistemas (Windows / Linux)
 ### 🏬 Segurança da Informação
-### 📊
 ### 👩🏼‍💻 Ciência da Dados em Paython
 ### 📡 Especialista de Telecomunicação
-### 🌐
+
 
 <div><br>
 
