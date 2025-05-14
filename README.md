@@ -27,10 +27,19 @@ Sinta-se à vontade para explorar, contribuir e trocar ideias! Vamos construir a
 !["banner](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 
-## ✏️      Estudante
+## ✏️      Habilidades
 
-
+### 👨‍💻 Administrador de Sistemas (Windows / Lunux)
+### 🌐
+### 💾
 ### 🖥️ Redes de Computadores
+### ⌨️
+### 📡 Especializado em Telecomunicações
+### 👩‍💻
+### 💻
+### 📱
+### 📊
+### 💿
 
 ### 🔏 Segurança da Informação
 
